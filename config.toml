@@ -10,3 +10,4 @@ app-name = "Instagram"
 build-mode = "apk"
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
