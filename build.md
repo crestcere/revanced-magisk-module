@@ -1,8 +1,8 @@
 YouTube: 18.23.35  
 Twitter: 10.2.0-release.0  
 Twitch: 15.4.1  
-TikTok: 30.8.4  
-Reddit: 2023.32.0  
+TikTok: 30.9.1  
+Reddit: 2023.32.1  
 Messenger: 422.0.0.18.107  
 Instagram: 275.0.0.27.98  
 
