@@ -28,6 +28,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "sim-spoof"
+excluded-patches = "disable-login-requirement fix-google-login"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
@@ -41,6 +42,7 @@ app-name = "Instagram"
 build-mode = "apk"
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-arch = "arm64-v8a"
 
 [Spotify]
 enabled = false
