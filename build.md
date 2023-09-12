@@ -3,9 +3,7 @@ Music-Extended (arm64-v8a): 6.17.52
 Music-Extended (arm-v7a): 6.17.52  
 YouTube-Extended: 18.31.40  
 Twitch: 15.4.1  
-TikTok: 31.2.4  
-Reddit: 2023.35.0  
-Instagram: 275.0.0.27.98  
+TikTok: 31.2.5  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
