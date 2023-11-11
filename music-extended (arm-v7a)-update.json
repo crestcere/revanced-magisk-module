@@ -1,6 +1,6 @@
 {
-  "version": "v6.25.53",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/crestcere/revanced-magisk-module/releases/download/24/music-revanced-extended-magisk-v6.25.53-arm-v7a.zip",
+  "version": "v6.27.53",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/crestcere/revanced-magisk-module/releases/download/26/music-revanced-extended-magisk-v6.27.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/crestcere/revanced-magisk-module/update/build.md"
 }
